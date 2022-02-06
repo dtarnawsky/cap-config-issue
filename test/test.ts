@@ -1,7 +1,6 @@
 
 import { CapacitorProject } from '@capacitor/project';
 import { CapacitorConfig } from '@capacitor/cli';
-import { ɵɵFactoryTarget } from '@angular/core';
 
 const test = async () => {
     const config: CapacitorConfig = {
